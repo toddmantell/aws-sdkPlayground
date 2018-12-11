@@ -1,0 +1,16 @@
+{
+  "name": "sdkplayground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "adm-zip": "^0.4.13",
+    "aws-sdk": "^2.368.0",
+    "uuid": "^3.3.2"
+  }
+}
